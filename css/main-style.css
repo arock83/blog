@@ -1,0 +1,57 @@
+
+/* Layout Styles */
+
+header {
+	margin-bottom: 30px;
+
+}
+
+.title {
+	justify-content: center;
+	margin-bottom: 15px;
+}
+
+#signup {
+	width: 100%;
+}
+
+footer div {
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+/* Color Styles */
+#wrapper {
+	background-color: #f68b1f;
+}
+
+#page {
+	border: 10px solid #f68b1f;
+	background-color: white;
+}
+
+.tagbar a {
+	text-decoration: none;
+	border-bottom: 1px dotted #f68b1f;
+	padding: 3px 5px;
+	margin: 10px 5px;
+	color: #f68b1f;
+}
+
+.title {
+	border-bottom: 5px solid #f68b1f;
+	margin-top: 20px;
+}
+.article-content {
+	border-bottom: 5px solid #f68b1f;
+	padding-bottom: 10px;
+
+}
+span {
+	color: #f68b1f;
+}
+footer p {
+	color: #f68b1f;
+
+}
